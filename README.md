@@ -2,7 +2,7 @@
 Tiny multi purpose adapter running GP2040-CE or HID Remapper
 
 ## What is this?
-This is the smallest and most affordable adapter / HID converter you can get, that has 3 USB-A "input" and 1 USB-A "output" ports. It is using a RP2040 microcontroller to run either [GP2040-CE](https://gp2040-ce.info/) or[HID Remapper](https://www.remapper.org/) firmware.
+This is the smallest and most affordable adapter / HID converter you can get, that has 3 USB-A "input" and 1 USB-A "output" ports. It is using a RP2040 microcontroller to run either [GP2040-CE](https://gp2040-ce.info/) or [HID Remapper](https://www.remapper.org/) firmware.
 
 ## But what does it do?
 So imagine you want to try out a leverless controller for fighting games on a Playstation 5. You still have a cheap keyboard lying around. What to do? Toss away all the keys you don't need, plug the keyboard into your Meisteradapter, (plug in a supported* authentication device) and off you go. The Meisteradapter functions as a controller and converts your inputs into console and PC compatible outputs, with the added benefit that you can plug in more devices to authenticate them for consoles.
@@ -11,7 +11,7 @@ So imagine you want to try out a leverless controller for fighting games on a Pl
 PC, PS3, PS4, PS5, Nintendo Switch, Xbox360, Xbox One, Steam Deck, MiSTer and Android
 
 ## What authentication devices can I use?
-Check the [GP2040-CE](https://gp2040-ce.info/introduction) and [HID Remapper](https://www.remapper.org/) documentation. Basically any licensed Playstation 4 "fighting stick" will work for fighting games on Playstation 5. This is something most authentication devices make use of. Newer authentication devices are fully Playstation 5 compatible, but not YET supported by the firmwares.  
+Check the [GP2040-CE](https://gp2040-ce.info/introduction) and [HID Remapper](https://www.remapper.org/manual/) documentation. Basically any licensed Playstation 4 "fighting stick" will work for fighting games on Playstation 5. This is something most authentication devices make use of. Newer authentication devices are fully Playstation 5 compatible, but not YET supported by the firmwares.  
 Or as a PS5 specific workaround, you could either unplug the adapter or push the reset button after every match before the 8 minute timout strikes.
 
 ## What firmware should I use?
