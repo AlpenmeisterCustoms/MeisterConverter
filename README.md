@@ -1,4 +1,4 @@
-# Meisterconverter
+# MeisterConverter
 Tiny multi purpose converter running GP2040-CE or HID Remapper
 
 <img width="594" height="470" alt="render0_0" src="https://github.com/user-attachments/assets/b223582f-38cd-4b54-81e1-20b2b26477e1" />
