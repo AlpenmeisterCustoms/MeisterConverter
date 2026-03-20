@@ -1,6 +1,8 @@
 # Meisterconverter
 Tiny multi purpose converter running GP2040-CE or HID Remapper
 
+<img width="594" height="470" alt="render0_0" src="https://github.com/user-attachments/assets/b223582f-38cd-4b54-81e1-20b2b26477e1" />
+
 ## What is this?
 This is the smallest and most affordable adapter / HID converter you can get, that has 3 USB-A "input" and 1 USB-A "output" ports. It is using a RP2040 microcontroller to run either [GP2040-CE](https://gp2040-ce.info/) or [HID Remapper](https://www.remapper.org/) firmware.
 
