@@ -4,7 +4,7 @@ Tiny multi purpose converter running GP2040-CE or HID Remapper
 <img width="594" height="470" alt="render0_0" src="https://github.com/user-attachments/assets/b223582f-38cd-4b54-81e1-20b2b26477e1" />
 
 ## What is this?
-This is the smallest and most affordable adapter / HID converter you can get, that has 3 USB-A "input" and 1 USB-A "output" ports. It is using a RP2040 microcontroller to run either [GP2040-CE](https://gp2040-ce.info/) or [HID Remapper](https://www.remapper.org/) firmware.
+This is one of, if not the smallest and most affordable adapter / HID converter you can get with 3 USB-A "input" ports and 1 USB-A "output" port. It is using a RP2040 microcontroller to run either [GP2040-CE](https://gp2040-ce.info/) or [HID Remapper](https://www.remapper.org/) firmware.
 
 ## But what does it do?
 So imagine you want to try out a leverless controller for fighting games on a Playstation 5. You still have a cheap keyboard lying around. What to do? Toss away all the keys you don't need, plug the keyboard into your Meisterconverter, (plug in a supported authentication device) and off you go. The Meisterconverter functions as a controller and converts your inputs into console and PC compatible outputs, with the added benefit that you can plug in more devices to authenticate them for consoles.
