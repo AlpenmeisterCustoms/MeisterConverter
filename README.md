@@ -14,7 +14,7 @@ Maybe you have some other favorite input device that follows the HID specificati
 PC, PS3, PS4, PS5, Nintendo Switch, Xbox360, Xbox One, Steam Deck, MiSTer and Android
 
 ## What authentication devices can I use?
-Check the [GP2040-CE](https://gp2040-ce.info/introduction) and [HID Remapper](https://www.remapper.org/manual/) documentation. Either you use a dedicated auth dongle, like a Booter 5 or even a Wingman FGC or any licensed Playstation 4 "fighting stick". They will work for fighting games on Playstation 5. Newer authentication devices are fully Playstation 5 compatible, but not YET supported by the firmwares.  
+Check the [HID Remapper](https://www.remapper.org/manual/) and [GP2040-CE](https://gp2040-ce.info/introduction) documentation. Either you use a dedicated auth dongle, like a Booter 5 or even a Wingman FGC or any licensed Playstation 4 "fighting stick". They will work for fighting games on Playstation 5. Newer authentication devices are fully Playstation 5 compatible, but not YET supported by the firmwares.  
 Or as a PS5 specific workaround, you could either unplug the converter or push the reset button after every match before the 8 minute timout strikes.
 
 ## What firmware should I use?
