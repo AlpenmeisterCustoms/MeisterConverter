@@ -32,4 +32,4 @@ In short: you can use, modify and build it for non-commercial use. You can use, 
 ## Where can I buy this?
 
 Recommended:
-[Additive Arcade](https://additivearcade.com/), UK based, worldwide shipping
+[Additive Arcade](https://additivearcade.com/products/meisterconverter), UK based, worldwide shipping
